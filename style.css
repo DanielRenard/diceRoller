@@ -1,0 +1,47 @@
+/* *{
+    background-color: green
+} */
+
+header {
+    background-color: rgb(48, 151, 91);
+    padding: 3rem;
+    text-align: center;
+    font-size: 35px;
+    color: aquamarine;
+}
+
+nav {
+    /* border: 1px solid green;
+    width: 50%; */
+    background-color: rgb(106, 95, 145);
+    padding: 1rem;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+nav p{
+    color: ghostwhite;
+}
+
+footer {
+    background-color: grey;
+    height: 2.5rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+article button {
+    height: 2rem;
+}
