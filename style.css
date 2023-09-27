@@ -1,0 +1,47 @@
+/* *{
+    background-color: green
+} */
+
+header {
+    background-color: burlywood;
+    padding: 3rem;
+    text-align: center;
+    font-size: 35px;
+    color: aquamarine;
+}
+
+nav {
+    /* border: 1px solid green;
+    width: 50%; */
+    background-color: green;
+    padding: 1rem;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+nav p{
+    color: ghostwhite;
+}
+
+footer {
+    background-color: blueviolet;
+    height: 2.5rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+article button {
+    height: 2rem;
+}
