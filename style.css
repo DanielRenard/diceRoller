@@ -3,11 +3,11 @@
 } */
 
 header {
-    background-color: rgb(48, 151, 91);
+    background-color: ghostwhite;
     padding: 3rem;
     text-align: center;
     font-size: 35px;
-    color: aquamarine;
+    color: rgb(190, 71, 71);
 }
 
 nav {
