@@ -1,6 +1,7 @@
 # diceRoller
 This is a website for dice.
-
-User stories
-
-User functionalities
+## user storyboard
+user lands on page
+user selects a dice
+user rolls dice
+a randomized number appears next to selected dice
